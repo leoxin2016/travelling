@@ -1,5 +1,6 @@
 HELP.md
 target/
+backup/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -31,3 +32,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### 环境变量文件 ###
+.env
